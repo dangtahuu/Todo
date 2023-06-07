@@ -4,5 +4,5 @@ A simple todo app where users can create a todo, and inside the todo user can cr
 
 # Sceenshot
 
-![Image-1](./readmeImages/todo1.png)
-![Image-1](./readmeImages/todo2.png)
+![Image-1](./images/todo1.png)
+![Image-1](./images/todo2.png)
